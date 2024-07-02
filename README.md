@@ -8,7 +8,6 @@ In day 6, we were asked to help a robot (Reeborg <3) to exit the maze.
 *Write a program using an if/elif/else statement so Reeborg can find the exit*. 
 
 Website: https://reeborg.ca/index_en.html
-
 ```
 
 What we learned with this example:
