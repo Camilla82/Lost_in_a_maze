@@ -2,9 +2,9 @@ This repository is part of my "100 Days of Code: The Complete Python Pro Bootcam
 
 In day 6, we were asked to help a robot (Reeborg <3) to exit the maze.
 
-** Reeborg was exploring a dark maze and the battery in its flashlight ran out.
+*Reeborg was exploring a dark maze and the battery in its flashlight ran out.*
 
-Write a program using an if/elif/else statement so Reeborg can find the exit**. 
+*Write a program using an if/elif/else statement so Reeborg can find the exit*. 
 
 Website: https://reeborg.ca/index_en.html
 
